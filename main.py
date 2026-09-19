@@ -1,3 +1,6 @@
+# Copyright (c) 2026 XieGames
+# This project includes PyQt5, which is licensed under GPLv3.
+
 # 打包命令：
 # pyinstaller main.py -i resources/icon.ico -D -w -n RubbishAndroid --add-data "resources;resources"
 
